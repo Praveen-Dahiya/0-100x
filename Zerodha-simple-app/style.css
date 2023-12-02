@@ -1,0 +1,51 @@
+.nav-cont{
+    display: flex;
+    justify-content:space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    box-shadow: 2px 1px 2px #eee;
+}
+.buttons-cont{
+    display: flex;
+    
+}
+.space{
+    padding: 20px;
+    color: #666;
+}
+.logo-cont{
+    height: 20px;
+    width: 150px;
+}
+
+.zerodha-logo-cont{
+    margin:20px;
+}
+.main-img-cont{
+    display: flex;
+    justify-content: center;
+}
+.main-class-style{
+    height: 375px;
+    width: 800px;
+}
+.invest-cont{
+    font-weight: 700;
+    font-size: 45px;
+    color: #424242;
+}
+.lower-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.signup-button-cont{
+   
+    font-weight: 500;
+    font-size: 20px;
+    padding: 10px 30px;
+    background-color: #387ed1;
+    color: #fff;
+    border-radius: 3px;
+}
